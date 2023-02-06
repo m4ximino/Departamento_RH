@@ -2,15 +2,15 @@
 Projeto de análise e criação de modelo para prever se o funcionario tem chance de sair da empresa com base em banco de dados de um departamento de RH.
 
 <p align= "center">
-<img src="https://github.com/m4ximino/Departamento_RH/edit/main/img/postrh_blog.webp" min-width="300px" max-width="200px" width="750px" ><br>
+<img src="https://github.com/m4ximino/Departamento_RH/blob/main/img/postrh_blog.webp" min-width="300px" max-width="200px" width="750px" ><br>
  <br>E aí, carinha que mora logo ali? Bora prever uns dados!  
 </p>
 
-### **OBJETIVO** <img width="20px" src="https://github.com/m4ximino/Departamento_RH/edit/main/img/índice.png" /> 
+### **OBJETIVO** <img width="20px" src="https://github.com/m4ximino/Departamento_RH/blob/main/img/%C3%ADndice.png" /> 
 ***
 Prever se o funcionario tem chance de sair da empresa com base em banco de dados de um departamento de RH.
 
-### **NOTEBOOKS** <img width="20px" src="https://github.com/m4ximino/Departamento_RH/edit/main/img/índice.png" /> 
+### **NOTEBOOKS** <img width="20px" src="https://github.com/m4ximino/Departamento_RH/blob/main/img/%C3%ADndice.png" /> 
 ***
 Deixar todo o projeto em apenas um notebook ficaria com um tamanho grande e cansativo a leitura do projeto, portanto foi dividido em 3, sendo eles:
 
@@ -18,7 +18,7 @@ Deixar todo o projeto em apenas um notebook ficaria com um tamanho grande e cans
 * [Análise Exploratória]
 * [Modelo de Aprendizado de Máquina]
 
-### **TECNOLOGIAS** <img width="20px" src="https://github.com/m4ximino/COVID_PREVISION/blob/main/img/índice.png" /> 
+### **TECNOLOGIAS** <img width="20px" src="https://github.com/m4ximino/Departamento_RH/blob/main/img/%C3%ADndice.png" /> 
 ***
 <div align = "left"> 
  Foram utilizados as seguintes bibliotecas da linguagem de programação python:
@@ -33,7 +33,7 @@ Deixar todo o projeto em apenas um notebook ficaria com um tamanho grande e cans
 </div>
 
 
-### **CONCLUSÕES** <img width="20px" src="https://github.com/m4ximino/Departamento_RH/edit/main/img/índice.png" /> 
+### **CONCLUSÕES** <img width="20px" src="https://github.com/m4ximino/Departamento_RH/blob/main/img/%C3%ADndice.png" /> 
 ***
 
  <p align= "center">
